@@ -8,7 +8,6 @@ from datetime import datetime
 urls = [
     
     'http://109.206.247.16:5000/tptv.m3u',
-    'https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u'，    
     'https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8',
     'https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt',
     'https://raw.githubusercontent.com/Guovin/TV/gd/result.txt', #每天自动更新1次
